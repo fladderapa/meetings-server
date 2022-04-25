@@ -15,7 +15,7 @@
   },
   {
     title: "AA  Tylögruppens International English Group, Halmstad, Halland",
-    address: "Hertig Knuts gatan 39",
+    address: "Hertig Knuts gatan 38",
     info: "",
     schedule:
       '<thead><tr><th style="width: 14%;">Månd</th><th style="width: 14%;">Tisd</th><th style="width: 14%;">Onsd</th><th style="width: 14%;">Tors</th><th style="width: 14%;">Fred</th><th style="width: 14%;">Lörd</th><th style="width: 14%;">Sönd</th></tr></thead><tbody><tr><td style="width: 14.28571428571429%" class="time time-empty"></td><td style="width: 14.28571428571429%" class="time time-empty"></td><td style="width: 14.28571428571429%" class="time time-empty"></td><td style="width: 14.28571428571429%" class="time time-empty"></td><td style="width: 14.28571428571429%" class="time time-empty"></td><td class="time time-not-empty time-tid3 tid113" style="width: 14.28571428571429%; background-color: #000000;">12:00</td><td style="width: 14.28571428571429%" class="time time-empty"></td></tr></tbody>',
